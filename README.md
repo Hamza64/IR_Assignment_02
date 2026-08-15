@@ -12,7 +12,8 @@ Information Retrieval Assignment 2, focused on shipping and freight forwarding u
 - Ranking importance using PageRank-based reranking
 - Content-based recommendation
 - Evaluation metrics dashboard
-- Performance analytics
+- Performance analytics of the dashboard
+
 
 ## Project Structure
 - `app.py` - Main Streamlit application
