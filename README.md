@@ -1,6 +1,6 @@
-# FreightIntel IR System
+# Freight Intel IR System
 
-A medium-complexity Streamlit project for BITS Information Retrieval Assignment 2, focused on shipping and freight forwarding using only public sources.
+Information Retrieval Assignment 2, focused on shipping and freight forwarding using only public sources.
 
 ## Features
 - Public web crawling with configurable depth and multiple seed URLs
@@ -35,8 +35,8 @@ streamlit run app.py
 
 ## Notes
 - Run crawling from the Streamlit UI to satisfy the assignment requirement that the workflow be executable through the front end.
-- Use public seed URLs only.
-- Capture screenshots from each major section for the report.
+- Used public seed URLs only.
+- Captured screenshots from each major section for the report.
 
 ## Recommended screenshots for report
 1. Dashboard overview
