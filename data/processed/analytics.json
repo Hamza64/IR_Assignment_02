@@ -1,0 +1,11 @@
+{
+  "crawl_time_sec": 78.9767,
+  "profiling_time_sec": 0.0209,
+  "index_time_sec": 0.1097,
+  "pages_fetched": 50,
+  "pages_parsed": 45,
+  "documents_indexed": 40,
+  "duplicates_removed": 5,
+  "last_query_latency_sec": 0.0011,
+  "last_query": "what is a freight forwarder"
+}
